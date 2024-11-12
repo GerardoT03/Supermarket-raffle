@@ -8,4 +8,5 @@ Este proyecto es una aplicación gráfica desarrollada en Java con NetBeans 17 q
 
 El programa valida las fechas de acuerdo con el mes en el que se realiza el sorteo. Ideal para sorteos mensuales y promociones que requieren la selección de ganadores de manera transparente y eficiente.
 
-![Java Logo](https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg)
+![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
